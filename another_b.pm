@@ -1,4 +1,4 @@
-package another_b
+package another_b;
 
 sub say
 {
